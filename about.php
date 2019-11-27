@@ -68,16 +68,34 @@
             <img src="images/img_1.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 ml-auto pl-md-5">
-            <span class="text-cursive h5 text-red">About Us</span>
-            <h3 class="text-black">Bring Fun Life To Your Kids</h3>
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et harum, magni sequi nostrum maxime enim.</span><span>Magnam id atque dicta deleniti, ipsam ipsum distinctio. Facilis praesentium voluptatem accusamus, earum veritatis, laudantium.</span></p>
-
-            <p class="mt-5"><a href="#" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
+            <!-- <span class="text-cursive h5 text-red">About Us</span> -->
+            <h3 class="text-cursive text-red">Why Curious minds?</h3>
+            <p><span>Interactive workshops at your doorstep!<br>
+                    Give your kids a chance to experience the best workshops equipped with creative kits.<br>
+                    Collaborative initiatives helping co-learning and progressing together. <br>
+                    Flexible options of dates and venue. <br>
+                    Attractive plans for long term associations. <br>
+              </span></p>
+            <!-- <p class="mt-5"><a href="#" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p> -->
           </div>
+          
+          <div class="col-md-12">
+            <!-- <span class="text-cursive h5 text-red">About Us</span> -->
+            <h3 class="text-cursive text-red">Why DIY?</h3>
+            <p><span>Creative projects help children develop sensory stimulation, imagination and fine motor skills.<br>
+                    It is a great way to work together and share ideas.<br>
+                    Cumulative learning by aggregating small parts helps kids develop art of reusing.<br>
+                    Interacting with your kids through DIY and other hands on activities does more than just encourage creativity and independence, it truly stimulates the mind.<br>
+                    When you have the confidence to figure out how to construct or fix something, that confidence will carry on to other areas of your life as well.<br> 
+                    Encouraging kids to “Do It Yourself” is like giving them the tools for survival. If they can work with their hands, they will always find employment, 
+                    rely less on others, and have the self-esteem and work ethic to go far in life.<br>
+              </span></p>
+            <!-- <p class="mt-5"><a href="#" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p> -->
+          </div>
+          
         </div>
       </div>
     </div>
-
     <div class="site-section bg-teal">
       <div class="container">
         <div class="row justify-content-center text-center mb-5 section-2-title">
@@ -89,7 +107,7 @@
         </div>
         <div class="row align-items-stretch">
 
-          <div class="col-lg-4 col-md-6 mb-5">
+          <!-- <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 teal">
               
                 <img src="images/person_1.jpg" alt="Image"
@@ -101,8 +119,8 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-5">
+          </div> -->
+          <!-- <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 yellow">
               
                 <img src="images/person_2.jpg" alt="Image"
@@ -170,7 +188,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
               </div>
             </div>
-          </div>
+          </div> -->
 
 
         </div>
@@ -178,7 +196,7 @@
     </div>
     
     
-    <div class="site-section bg-info">
+    <!-- <div class="site-section bg-info">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
@@ -213,11 +231,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    
+    <?php include('footer.php'); ?>
 
-    <footer class="site-footer">
+    <!-- <footer class="site-footer">
       <div class="container">
         <div class="row">
           <div class="col-lg-4">
@@ -263,16 +281,16 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
               <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
             </p>
             </div>
           </div>
 
         </div>
       </div>
-    </footer>
+    </footer> -->
 
     </div>
 

@@ -94,6 +94,30 @@
           <div class="col-md-3 mb-4">
             <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (8).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
           </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (9).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (10).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (11).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (12).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (13).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (14).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (15).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
+          <div class="col-md-3 mb-4">
+            <a href="images/1 (8).jpg" data-fancybox="gal"><img src="images/1 (16).jpg" alt="Image" !important height="300px" width="300px" class="img-fluid" >
+          </div>
         </div>
       </div>
     </div>
