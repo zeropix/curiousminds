@@ -2,6 +2,15 @@
 <html lang="en">
 
   <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154420802-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154420802-2');
+</script>
     <title>Curious minds DIY &mdash; Website Template by Colorlib</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -89,7 +98,7 @@
               <span class="text-cursive h5 text-red">Welcome To Our Website</span>
               <h1 class="mb-3 font-weight-bold text-teal">Curious minds DIY</h1>
               <p>Why buy when you can create?</p>
-              <p class="mt-5"><a href="#" class="btn btn-primary py-4 btn-custom-1">Learn More</a></p>
+              <p class="mt-5"><a href="about.php" class="btn btn-primary py-4 btn-custom-1">Learn More</a></p>
             </div>
             <div class="col-md-6 ml-auto align-self-end">
               <img src="images/kid_transparent.png" alt="Image" class="img-fluid">
@@ -150,7 +159,7 @@
             <h3 class="text-black">Curious minds DIY</h3>
             <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et harum, magni sequi nostrum maxime enim.</span><span>Magnam id atque dicta deleniti, ipsam ipsum distinctio. Facilis praesentium voluptatem accusamus, earum veritatis, laudantium.</span></p>
 
-            <p class="mt-5"><a href="#" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
+            <p class="mt-5"><a href="about.php" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
           </div>
         </div>
       </div>
@@ -171,7 +180,7 @@
               <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image" class="img-fluid"></span>
               <!-- <h3 class="text-teal">Indoor Games</h3> -->
               <p>"From learning to express creativity to figuring out how to solve problems kids gain valuable skills while creating fun and memorable DIY projects"</p>
-              <p><a href="#" class="btn btn-primary btn-custom-1 mt-4">Learn More</a></p>
+              <p><a href="about.php" class="btn btn-primary btn-custom-1 mt-4">Learn More</a></p>
             </div>
           </div>
           <!-- <div class="col-lg-4 mb-4 mb-lg-0">
@@ -234,7 +243,7 @@
       </div>
     </div> -->
     
-    <div class="site-section bg-light">
+    <!-- <div class="site-section bg-light">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
@@ -312,7 +321,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
 
     <div class="site-section py-5 bg-warning">
@@ -326,9 +335,9 @@
       </div>
     </div>
 
-    
+    <?php include('footer.php'); ?></div>
 
-    <footer class="site-footer">
+    <!-- <footer class="site-footer">
       <div class="container">
         <div class="row">
           <div class="col-lg-4">
@@ -347,7 +356,7 @@
                 <h2 class="footer-heading mb-4">Navigation</h2>
                 <ul class="list-unstyled">
                   <li><a href="#">About Us</a></li>
-                  <li><a href="#">Testimonials</a></li>
+                  <!-- <li><a href="#">Testimonials</a></li> 
                   <li><a href="#">Terms of Service</a></li>
                   <li><a href="#">Privacy</a></li>
                   <li><a href="#">Contact Us</a></li>
@@ -363,7 +372,7 @@
                   <li><a href="#">Contact Us</a></li>
                 </ul>
                 
-              </div> -->
+              </div> 
 
               
               
@@ -374,16 +383,16 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
               <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
             </p>
             </div>
           </div>
 
         </div>
       </div>
-    </footer>
+    </footer> -->
 
     </div>
 
