@@ -11,7 +11,7 @@
 
   gtag('config', 'UA-154420802-2');
 </script>
-    <title>Curious minds DIY &mdash; Website Template by Colorlib</title>
+    <title>Curious minds DIY</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -157,7 +157,13 @@
           <div class="col-md-5 ml-auto pl-md-5">
             <span class="text-cursive h5 text-red">About Us</span>
             <h3 class="text-black">Curious minds DIY</h3>
-            <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et harum, magni sequi nostrum maxime enim.</span><span>Magnam id atque dicta deleniti, ipsam ipsum distinctio. Facilis praesentium voluptatem accusamus, earum veritatis, laudantium.</span></p>
+            <p><span>
+            
+            Curious minds is a one stop solution for your little ones' creative and intellectual needs. We believe
+            in learning by doing that's why we have launched our DIY kits which are personalized, fun and interests kids of every age.
+            Apart from creative needs we also cater to enhance your child's ability to bag every Olympiad with our specialized coaching because every child is special.
+            </span>
+            <span></span></p>
 
             <p class="mt-5"><a href="about.php" class="btn btn-warning py-4 btn-custom-1">More About Us</a></p>
           </div>
@@ -166,24 +172,24 @@
     </div>
     
     
-    <div class="site-section bg-info">
+    <!-- <div class="site-section bg-info">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
             <span class="text-cursive h5 text-red d-block">Workshops You Like</span>
-            <!-- <h2 class="text-white">Our Packages</h2> -->
+            <h2 class="text-white">Our Packages</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-4 mb-4 mb-lg-0">
             <div class="package text-center bg-white">
               <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image" class="img-fluid"></span>
-              <!-- <h3 class="text-teal">Indoor Games</h3> -->
+              <h3 class="text-teal">Indoor Games</h3>
               <p>"From learning to express creativity to figuring out how to solve problems kids gain valuable skills while creating fun and memorable DIY projects"</p>
               <p><a href="about.php" class="btn btn-primary btn-custom-1 mt-4">Learn More</a></p>
             </div>
           </div>
-          <!-- <div class="col-lg-4 mb-4 mb-lg-0">
+          <div class="col-lg-4 mb-4 mb-lg-0">
             <div class="package text-center bg-white">
               <span class="img-wrap"><img src="images/flaticon/svg/002-target.svg" alt="Image" class="img-fluid"></span>
               <h3 class="text-success">Outdoor Game and Event</h3>
@@ -198,10 +204,10 @@
               <p>Lorem ipsum dolor sit amet. Consequatur aliquam, fuga maiores amet quo corporis distinctio soluta recusandae?</p>
               <p><a href="#" class="btn btn-success btn-custom-1 mt-4">Learn More</a></p>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- <div class="site-section">
       <div class="container">

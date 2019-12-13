@@ -71,8 +71,8 @@
       <div class="container">
         <div class="row justify-content-center text-center">
         <div class="col-7 text-center mb-5">
-          <h2>Get In Touch Using The Contact Form</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo assumenda, dolorum necessitatibus eius earum voluptates sed!</p>
+          <h2>We would love to hear from you!</h2>
+          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo assumenda, dolorum necessitatibus eius earum voluptates sed!</p> -->
         </div>
       </div>
         <div class="row">
@@ -111,17 +111,17 @@
               <ul class="list-unstyled footer-link">
                 <li class="d-block mb-3">
                   <span class="d-block text-black">Address:</span>
-                  <span>34 Street Name, City Name Here, United States</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>+1 242 4942 290</span></li>
-                <li class="d-block mb-3"><span class="d-block text-black">Email:</span><span>info@yourdomain.com</span></li>
-              </ul>
+                  <span>Pocket-52, C.R.Park
+Delhi, India 110019</span></li>
+                <li class="d-block mb-3"><span class="d-block text-black">Phone:</span><span>097113 83031</span></li>
+               </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="site-section">
+    <!-- <div class="site-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
@@ -174,7 +174,7 @@
         </div>
         
       </div>
-    </div>
+    </div> -->
 
     <?php include('footer.php'); ?></div>
 

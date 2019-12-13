@@ -105,18 +105,18 @@
         </div>
       </div>
     </div>
-    <div class="site-section bg-teal">
+    <!-- <div class="site-section bg-teal">
       <div class="container">
         <div class="row justify-content-center text-center mb-5 section-2-title">
           <div class="col-md-6">
             <span class="text-cursive h5 text-red">The Team</span>
             <h3 class="text-white text-center">Meet The Team</h3>
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure nesciunt nemo vel earum maxime neque!</p>
+            <p class="mb-5"></p>
           </div>
         </div>
         <div class="row align-items-stretch">
 
-          <!-- <div class="col-lg-4 col-md-6 mb-5">
+          <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 person-1 teal">
               
                 <img src="images/person_1.jpg" alt="Image"
@@ -197,13 +197,13 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
               </div>
             </div>
-          </div> -->
+          </div>
 
 
         </div>
       </div>
     </div>
-    
+     -->
     
     <!-- <div class="site-section bg-info">
       <div class="container">

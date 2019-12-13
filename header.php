@@ -21,7 +21,7 @@
             <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
               <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
                 <ul class="site-menu main-menu js-clone-nav mr-auto ">
-                  <li class="active"><a href="index.html" class="nav-link">Home</a></li>
+                  <li class="active"><a href="index.php" class="nav-link">Home</a></li>
                   <!-- <li><a href="packages.php" class="nav-link">Packages</a></li> -->
                   <li><a href="gallery.php" class="nav-link">Gallery</a></li>
                   <li><a href="about.php" class="nav-link">About</a></li>
