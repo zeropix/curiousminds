@@ -46,10 +46,11 @@
         </div>
         <div class="site-mobile-menu-body"></div>
       </div>
-<div>
-      <?php include('header.php'); ?></div>
-<!-- 
-      <header class="site-navbar site-navbar-target" role="banner">
+    <div>
+     
+    <?php include('header.php'); ?>
+
+      <!-- <header class="site-navbar site-navbar-target" role="banner">
         <div class="container mb-3">
           <div class="d-flex align-items-center">
             <div class="site-logo mr-auto">
@@ -61,7 +62,7 @@
                 <!-- <span>34 Street Name, City Name Here, <br> United States</span> 
               </div>
               <div class="d-flex site-info align-items-center">
-                <!-- <span class="block-icon mr-3"><span class="icon-clock-o"></span></span> \
+                <!-- <span class="block-icon mr-3"><span class="icon-clock-o"></span></span> \ 
                 <!-- <span>Sunday - Friday 8:00AM - 4:00PM <br> Saturday CLOSED</span> \
               </div>
             </div>
@@ -72,12 +73,12 @@
             <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
               <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
                 <ul class="site-menu main-menu js-clone-nav mr-auto ">
-                  <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                  <li><a href="about.html" class="nav-link">About</a></li>
-                  <li><a href="packages.html" class="nav-link">Packages</a></li>
-                  <li><a href="gallery.html" class="nav-link">Gallery</a></li>
-                  <li><a href="pricing.html" class="nav-link">Pricing</a></li>
-                  <li><a href="contact.html" class="nav-link">Contact</a></li>
+                  <li class="active"><a href="index.php" class="nav-link">Home</a></li>
+                  <li><a href="about.php" class="nav-link">About</a></li>
+                  <!-- <li><a href="packages.html" class="nav-link">Packages</a></li> 
+                  <li><a href="gallery.php" class="nav-link">Gallery</a></li>
+                  <!-- <li><a href="pricing.html" class="nav-link">Pricing</a></li> 
+                  <li><a href="contact.php" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
               <div class="top-social ml-auto">
@@ -88,10 +89,23 @@
           </div>
         </div>
       </header> -->
+    <!-- <div class="ftco-blocks-cover-1">
+      <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')" 
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')">
+        <div class="container">
+          <div class="row align-items-center ">
 
+            <div class="col-md-5 mt-5 pt-5">
+              <span class="text-cursive h5 text-red">Welcome To Our Website</span>
+              <h1 class="mb-3 font-weight-bold text-teal">About Us</h1>
+              <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>About</strong></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
     <div class="ftco-blocks-cover-1">
-       
-      <div class="site-section-cover overlay">
+      <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/kid_transparent.png')">
         <div class="container">
           <div class="row align-items-center ">
             <div class="col-md-5 mt-5 pt-5">
@@ -100,10 +114,10 @@
               <p>Why buy when you can create?</p>
               <p class="mt-5"><a href="about.php" class="btn btn-primary py-4 btn-custom-1">Learn More</a></p>
             </div>
-            <div class="col-md-6 ml-auto align-self-end">
+            <!-- <div class="col-md-6 ml-auto align-self-end">
               <img src="images/kid_transparent.png" alt="Image" class="img-fluid">
               
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -158,7 +172,6 @@
             <span class="text-cursive h5 text-red">About Us</span>
             <h3 class="text-black">Curious minds DIY</h3>
             <p><span>
-            
             Curious minds is a one stop solution for your little ones' creative and intellectual needs. We believe
             in learning by doing that's why we have launched our DIY kits which are personalized, fun and interests kids of every age.
             Apart from creative needs we also cater to enhance your child's ability to bag every Olympiad with our specialized coaching because every child is special.
