@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 
   <head>
@@ -21,6 +21,7 @@
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
   </head>
 
