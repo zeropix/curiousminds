@@ -2,6 +2,8 @@
         <div class="container mb-3">
           <div class="d-flex align-items-center">
             <div class="site-logo mr-auto">
+            <a href="index.php"><img src="images/logo.jpg" alt="logo" width="50" height="50"></a>
+          
               <a href="index.php">Curious minds DIY<span class="text-primary">.</span></a>
             </div>
             <div class="site-quick-contact d-none d-lg-flex ml-auto ">
